@@ -10,8 +10,8 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "kazuma lvl.69",
+    "PREFIX": ">",
     "ADMINBOT": [
         "USERID1",
         "USERID2"
